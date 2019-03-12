@@ -1,0 +1,13 @@
+{
+  "name": "prefers-color-scheme",
+  "version": "0.0.0",
+  "description": "Get a user's preferred color scheme using CSS @media prefers-color-scheme",
+  "main": "index.js",
+  "repository": "git@github.com:AnandChowdhary/prefers-color-scheme.git",
+  "author": "Anand Chowdhary <mail@anandchowdhary.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.3.3333"
+  }
+}
