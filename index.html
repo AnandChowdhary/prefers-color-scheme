@@ -12,7 +12,7 @@
     <body>
         <h1>Your color scheme is <strong id="colorScheme">loading...</strong>.</h1>
         <script type="module">
-            import prefersColorScheme from "./dist/index.js";
+            import prefersColorScheme from "https://unpkg.com/prefers-color-scheme";
             document.querySelector("#colorScheme").innerHTML = prefersColorScheme();
             document.body.classList.add(prefersColorScheme());
         </script>
