@@ -12,10 +12,13 @@
   "author": "Anand Chowdhary <mail@anandchowdhary.com>",
   "license": "MIT",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "jest --coverage --coverageReporters=text-lcov | coveralls",
+    "test-without-coverage": "jest"
   },
   "devDependencies": {
     "@types/jest": "^24.0.11",
+    "coveralls": "^3.0.3",
     "jest": "^24.4.0",
     "ts-jest": "^24.0.0",
     "tsc": "^1.20150623.0",
@@ -23,8 +26,7 @@
   },
   "jest": {
     "roots": [
-      "<rootDir>/src/",
-      "<rootDir>/tests/"
+      "<rootDir>"
     ],
     "transform": {
       "^.+\\.tsx?$": "ts-jest"
