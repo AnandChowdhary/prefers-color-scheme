@@ -1,10 +1,11 @@
 # 🎨 Prefers color scheme
 
-[![NPM](https://img.shields.io/npm/v/prefers-color-scheme.svg)](https://www.npmjs.com/package/prefers-color-scheme)
 [![Travis CI](https://img.shields.io/travis/AnandChowdhary/prefers-color-scheme.svg)](https://travis-ci.org/AnandChowdhary/prefers-color-scheme)
 [![Coverage Status](https://coveralls.io/repos/github/AnandChowdhary/prefers-color-scheme/badge.svg?branch=master)](https://coveralls.io/github/AnandChowdhary/prefers-color-scheme?branch=master)
 [![GitHub](https://img.shields.io/github/license/anandchowdhary/prefers-color-scheme.svg)](https://github.com/AnandChowdhary/prefers-color-scheme/blob/master/LICENSE)
 ![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/AnandChowdhary/prefers-color-scheme.svg)
+![NPM type definitions](https://img.shields.io/npm/types/prefers-color-scheme.svg)
+[![NPM](https://img.shields.io/npm/v/prefers-color-scheme.svg)](https://www.npmjs.com/package/prefers-color-scheme)
 [![Minzipped size](https://img.shields.io/bundlephobia/minzip/prefers-color-scheme.svg)](https://www.npmjs.com/package/prefers-color-scheme)
 
 [![NPM](https://nodei.co/npm/prefers-color-scheme.png)](https://www.npmjs.com/package/prefers-color-scheme)
